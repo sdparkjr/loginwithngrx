@@ -1,0 +1,7 @@
+{
+  "name": "tutorialngrx",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
